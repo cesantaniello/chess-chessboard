@@ -1,0 +1,14 @@
+
+
+body, .card-body {
+    background-color: #B58863;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F0D9B5;
+}
+
+.container {
+    display: flex;  
+    align-items: center;      
+    justify-content: center;    
+    min-height: 100vh;
+}
