@@ -1,1 +1,1 @@
-# Aplicación que muestra un tablero de Ajedrez hecha con la librería chessboard.js
+# Aplicación hecha con la librería chessboard.js que muestra un tablero de Ajedrez.
